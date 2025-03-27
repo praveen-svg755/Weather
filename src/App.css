@@ -70,3 +70,10 @@ body{
 .suggestions li:hover {
   background: #f0f0f0;
 }
+@media  screen and(min-width:760){
+  .weather{
+   
+    
+    padding: auto;
+  }
+}
