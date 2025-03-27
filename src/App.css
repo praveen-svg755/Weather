@@ -3,6 +3,7 @@ body{
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-style: normal;
+  background-color: rgb(52, 3, 60);
 }
 .weather{
   place-self: center;
@@ -54,7 +55,7 @@ body{
   margin-top: 10;
   padding: 0;
   position: absolute;
-  top: 230 px;
+  top: 230px;
   background: white;
   border: 1px solid #ccc;
   max-height: 150px;
@@ -70,10 +71,5 @@ body{
 .suggestions li:hover {
   background: #f0f0f0;
 }
-@media  screen and(min-width:760){
-  .weather{
-   
-    
-    padding: auto;
-  }
-}
+
+
